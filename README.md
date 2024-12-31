@@ -17,12 +17,9 @@
 </ul>
 
 <!-- Coding Animation -->
-<img align="right" alt="coding" width="400" src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://dribbble.com/shots/1899338-Yogocat-Animation/attachments/9034792?mode=media)" />
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/1899338-Yogocat-Animation/attachments/9034792?mode=media"/>
 
-<!-- Profile Views -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=jesika14&label=Profile%20views&color=0e75b6&style=flat" alt="jesika14" />
-</p>
+
 
 <!-- Portfolio Link -->
 - Portfolio [https://jesika14.github.io/Portfolio/](https://jesika14.github.io/Portfolio/)  
