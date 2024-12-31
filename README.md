@@ -17,7 +17,7 @@
 </ul>
 
 <!-- Coding Animation -->
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="coding" width="400" src="[https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://dribbble.com/shots/1899338-Yogocat-Animation/attachments/9034792?mode=media)" />
 
 <!-- Profile Views -->
 <p align="left"> 
