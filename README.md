@@ -18,37 +18,10 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesika14" alt="jesika14" /></a> </p>
-
 - Portfolio [https://jesika14.github.io/Portfolio/](https://jesika14.github.io/Portfolio/)
 
 - Email **rai.8@iitj.ac.in**
 
-<!-- Banner Section -->
-![MasterHead](<https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif>)
-
-<h1 align="center">Hi 👋, I'm Jesika Rai</h1>
-
-<h3 align="center">I’m Jesika Rai, a final-year B.Tech student at IIT Jodhpur, specializing in Civil & Infrastructure.</h3>
-
-<!-- About Section -->
-<ul>
-  <li>Passionate about data analysis and using data to uncover insights and drive decision-making.</li>
-  <li>Skilled in tools like Python, SQL, Tableau, Power BI, and Excel, with expertise in manipulating complex datasets and visualizing results.</li>
-  <li>Strong foundation in Machine Learning, Data Structures, Algorithms, and Object-Oriented Programming.</li>
-  <li>In addition to my data analysis skills, I am also a UI/UX Designer and Product Designer, applying my analytical mindset to design user-friendly interfaces.</li>
-  <li>Always curious, I enjoy exploring new tech stacks and applying my knowledge to real-world problems.</li>
-  <li>Open to collaborating, sharing insights, and learning from others.</li>
-  <li>Let’s connect!</li>
-</ul>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesika14" alt="jesika14" /></a> </p>
-
-- Portfolio [https://jesika14.github.io/Portfolio/](https://jesika14.github.io/Portfolio/)
-
-- Email **rai.8@iitj.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
