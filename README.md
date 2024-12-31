@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.pinterest.com/pin/tumblr_owi25v6uao1r4gsiio1_1280gif-1000300-in-2024--952722496163721113/)
+![MasterHead]([https://www.pinterest.com/pin/tumblr_owi25v6uao1r4gsiio1_1280gif-1000300-in-2024--952722496163721113/](https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif))
 
 <h1 align="center">Hi 👋, I'm Jesika Rai</h1>
 
@@ -12,7 +12,7 @@
   <li>In addition to my data analysis skills, I am also a UI/UX Designer and Product Designer, applying my analytical mindset to design user-friendly interfaces.</li>
   <li>Always curious, I enjoy exploring new tech stacks and applying my knowledge to real-world problems.</li>
   <li>Open to collaborating, sharing insights, and learning from others.</li>
-  <li>Let’s connect!</li>
+ 
 </ul>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unicode-systems.com%2Fbigdataanalytics&psig=AOvVaw0MLLYyLebKAcByP4Yh7sog&ust=1735755491826000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCakqTP0ooDFQAAAAAdAAAAABAZ" />
