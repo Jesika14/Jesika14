@@ -13,14 +13,13 @@
   <li>In addition to my data analysis skills, I am also a UI/UX Designer and Product Designer, applying my analytical mindset to design user-friendly interfaces.</li>
   <li>Always curious, I enjoy exploring new tech stacks and applying my knowledge to real-world problems.</li>
   <li>Open to collaborating, sharing insights, and learning from others.</li>
-  <li>Let’s connect!</li>
 </ul>
 
 
 
-- Portfolio [https://jesika14.github.io/Portfolio/](https://jesika14.github.io/Portfolio/)
+Portfolio [https://jesika14.github.io/Portfolio/](https://jesika14.github.io/Portfolio/)
 
-- Email **rai.8@iitj.ac.in**
+Email **rai.8@iitj.ac.in**
 
 
 <h3 align="left">Connect with me:</h3>
