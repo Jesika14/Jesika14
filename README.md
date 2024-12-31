@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jesika Rai</h1>
 <h3 align="center">I’m Jesika Rai, a final-year B.Tech student at IIT Jodhpur, specializing in Civil & Infrastructure.
   
-Passionate about data analysis and using data to uncover insights and drive decision-making.
+-Passionate about data analysis and using data to uncover insights and drive decision-making.
 
 Skilled in tools like Python, SQL, Tableau, Power BI, and Excel, with expertise in manipulating complex datasets and visualizing results. Strong foundation in Machine Learning, Data Structures, Algorithms, and Object-Oriented Programming. 
 
