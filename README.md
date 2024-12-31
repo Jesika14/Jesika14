@@ -1,6 +1,14 @@
 [!MasterHead](https://www.pinterest.com/pin/tumblr_owi25v6uao1r4gsiio1_1280gif-1000300-in-2024--952722496163721113/)
 <h1 align="center">Hi 👋, I'm Jesika Rai</h1>
-<h3 align="center">I’m Jesika Rai, a final-year B.Tech student at IIT Jodhpur, specializing in Civil & Infrastructure. Passionate about data analysis and using data to uncover insights and drive decision-making. Skilled in tools like Python, SQL, Tableau, Power BI, and Excel, with expertise in manipulating complex datasets and visualizing results. Strong foundation in Machine Learning, Data Structures, Algorithms, and Object-Oriented Programming. In addition to my data analysis skills, I am also a UI/UX Designer and Product Designer, applying my analytical mindset to design user-friendly interfaces. Always curious, I enjoy exploring new tech stacks and applying my knowledge to real-world problems. Open to collaborating, sharing insights, and learning from others. Let’s connect!</h3>
+<h3 align="center">I’m Jesika Rai, a final-year B.Tech student at IIT Jodhpur, specializing in Civil & Infrastructure.
+  
+Passionate about data analysis and using data to uncover insights and drive decision-making.
+
+Skilled in tools like Python, SQL, Tableau, Power BI, and Excel, with expertise in manipulating complex datasets and visualizing results. Strong foundation in Machine Learning, Data Structures, Algorithms, and Object-Oriented Programming. 
+
+In addition to my data analysis skills, I am also a UI/UX Designer and Product Designer, applying my analytical mindset to design user-friendly interfaces. Always curious, I enjoy exploring new tech stacks and applying my knowledge to real-world problems. Open to collaborating, sharing insights, and learning from others.
+
+Let’s connect!</h3>
 <img align = "right" alt="coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.unicode-systems.com%2Fbigdataanalytics&psig=AOvVaw0MLLYyLebKAcByP4Yh7sog&ust=1735755491826000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCakqTP0ooDFQAAAAAdAAAAABAZ
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesika14&label=Profile%20views&color=0e75b6&style=flat" alt="jesika14" /> </p>
