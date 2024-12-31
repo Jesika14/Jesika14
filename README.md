@@ -17,7 +17,7 @@
 </ul>
 
 <!-- Coding Animation -->
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/1899338-Yogocat-Animation/attachments/9034792?mode=media"/>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/364116/screenshots/1899338/media/eec1961f07ec63787115fc1226c63fad.gif"/>
 
 
 
