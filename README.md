@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Jesika Rai</h1>
 
-<h3 align="center">I’m Jesika Rai, a final-year B.Tech student at IIT Jodhpur, specializing in Civil & Infrastructure.</h3>
+<h3 align="center">I’m Jesika Rai, a B.Tech graduate in Civil & Infrastructure from IIT Jodhpur.</h3>
 
 <!-- About Section -->
 <ul>
